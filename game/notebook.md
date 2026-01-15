@@ -6,7 +6,7 @@
 - [ ] The Blacksmith
 
 ## Weapons
-- [ ] Iron Poker
+- [X] Iron Poker
 - [ ] Wooden Box
 - [ ] Glass Bottle
 
