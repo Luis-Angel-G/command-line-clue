@@ -2,8 +2,8 @@
 
 ## Suspects
 - [ ] The Librarian
-- [ ] The Baker
-- [ ] The Blacksmith
+- [X] The Baker
+- [X] The Blacksmith
 
 ## Weapons
 - [X] Iron Poker
