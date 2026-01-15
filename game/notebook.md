@@ -7,7 +7,7 @@
 
 ## Weapons
 - [X] Iron Poker
-- [ ] Wooden Box
+- [X] Wooden Box
 - [ ] Glass Bottle
 
 ## Notes
